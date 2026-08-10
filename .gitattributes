@@ -1,2 +1,13 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+ancho = 5
+alto = 6
+
+
+area= ancho * alto 
+
+
+perimetro = 2 * (ancho + alto)
+
+
+
+print("area:", area)
+print("perimetro", perimetro)
